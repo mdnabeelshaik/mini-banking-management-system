@@ -1,3 +1,4 @@
+HEAD
 \# Mini Banking Management System
 
 
@@ -186,3 +187,7 @@ This is an educational project using sample data. It is not a production banking
 
 
 
+
+# mini-banking-management-system
+A mini banking system built using Oracle SQL and PL/SQL
+ 596862b4c23ea1b8aab1be968c1937c78ce5e857
