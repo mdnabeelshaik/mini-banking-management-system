@@ -187,9 +187,11 @@ The transfer test confirmed that the sender's balance decreased by the transfer 
 \## Learning Objective
 
 
-
 This project demonstrates foundational Oracle SQL and PL/SQL skills relevant to database development, transaction processing, and core banking concepts.
 
+##Key Learning:
+
+Database design, joins, stored procedures, package development, transaction processing, error handling, and core banking concepts.
 
 
 \## Disclaimer
