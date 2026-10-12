@@ -179,9 +179,9 @@ The transfer test confirmed that the sender's balance decreased by the transfer 
 3) Transaction history
 <img width="1860" height="961" alt="Screenshot 2026-10-12 121920" src="https://github.com/user-attachments/assets/db9ccb0c-361c-427a-abff-0f88cd914115" />
 4) Error handling
-5) <img width="1868" height="947" alt="Screenshot 2026-10-12 125626" src="https://github.com/user-attachments/assets/993e3a32-9c1c-40bb-9f52-e54a906a149b" />
+ <img width="1868" height="947" alt="Screenshot 2026-10-12 125626" src="https://github.com/user-attachments/assets/993e3a32-9c1c-40bb-9f52-e54a906a149b" />
 5) Balance enquiry
-6) <img width="1902" height="980" alt="Screenshot 2026-10-12 125846" src="https://github.com/user-attachments/assets/db0038d6-94a6-4cd3-81fc-1a450232686d" />
+ <img width="1902" height="980" alt="Screenshot 2026-10-12 125846" src="https://github.com/user-attachments/assets/db0038d6-94a6-4cd3-81fc-1a450232686d" />
 
 
 \## Learning Objective
